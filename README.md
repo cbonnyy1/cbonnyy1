@@ -1,16 +1,23 @@
-## Hi there 👋
+# Charles Bonny
+Cybersecurity | IBM Mainframe Test Technician
 
-<!--
-**cbonnyy1/cbonnyy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Working with enterprise systems at IBM while building hands on cybersecurity skills through labs and real world practice.
 
-Here are some ideas to get you started:
+## What I'm Working On
+-Home lab (Windows + Linux systems)
+-Network monitoring and traffic analysis
+-Python scripting for security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+-Python
+-Linux & Windows systems
+-Networking (TCP/IP, ports, traffic)
+-Basic security tools (Nmap, tcpdump)
+
+## Goals
+-Move into a SOC / cybersecuirty role
+-Continue building real world security experience
+
+## Connect
+LinkedIn: www.linkedin.com/in/charles-bonny-51723421b
